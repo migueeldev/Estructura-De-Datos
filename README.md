@@ -1,9 +1,3 @@
-# Repositorio de Estructura De Datos
-
-#### Autor: 
-[migueeldev](https://github.com/migueeldev)
-
-
 ### Temario desarrollado:
 
 - Unidad 1:  Introduccion a las Estructuras de Datos 
